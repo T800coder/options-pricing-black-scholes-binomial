@@ -62,4 +62,4 @@ jupyter notebook Options_Pricing_Models.ipynb   # full walkthrough
 - Model the call-put IV skew rather than assuming a single volatility
 
 ---
-*Self-initiated project | Ishitva Chandra, IIT Bombay*
+*Self-initiated project | Ishitva Yadav, IIT Bombay*
